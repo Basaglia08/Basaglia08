@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📖 - Currently studying front-end tools and graphical interfaces.<br>📚 - I work in systems development and have intermediate knowledge of JavaScript and Python.</p>
+<p align="left">📖 - Currently studying front-end tools and graphical interfaces.<br>📚 - I work in systems development and have intermediate knowledge of JavaScript.</p>
 
 ###
 
