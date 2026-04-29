@@ -16,7 +16,7 @@ Me chamo Miguel Basaglia Batista, tenho 18 anos e sou natural de São Paulo. Atu
   }
   ```
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens & Tecnologias
 
   <p align="left">
   <a>
