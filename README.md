@@ -1,35 +1,44 @@
-<h2 align="left">About Me / Sobre mim</h2>
+# 💻 Miguel Basaglia 
 
-###
+**`Desenvolvedor FullStack`**
 
-<p align="left">📖 - Currently studying front-end tools and graphical interfaces.<br>📚 - I work in systems development and have intermediate knowledge of JavaScript.</p>
+Me chamo Miguel Basaglia Batista, tenho 18 anos e sou natural de São Paulo. Atualmente, estou concluindo o curso técnico em Desenvolvimento de Sistemas pela ETEC, onde venho adquirindo conhecimentos sólidos na área de tecnologia, programação e resolução de problemas. Sou uma pessoa dedicada, com interesse constante em aprender e evoluir, buscando sempre aprimorar minhas habilidades e me preparar para novos desafios no mercado de trabalho.
 
-###
+  ```java
+  public class Miguel extends Developer {
+    private String nome = "Miguel";
+    private String[] skills = {"Java", "Javascript", "PHP", "Python"};
+    public Miguel() {
+      super();
+      IO.println("Hello World!");
+      this.codar();
+    }
+  }
+  ```
 
-<h2 align="left">Techs</h2>
+### 🤖 Linguagens e Tecnologias
 
-###
+  <p align="left">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,react" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
+### 📊 Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Basaglia08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<h2 align="left">Status</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basaglia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Basaglia08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Basaglia08&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basaglia08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
