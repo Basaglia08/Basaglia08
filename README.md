@@ -27,7 +27,7 @@
 
 </div>
 
-<h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
+<h3 align="center"><sub>𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
 <table align="center">
 <tr>
 
@@ -63,7 +63,7 @@ Sou estudante de programação, focado no desenvolvimento Back-End e Front-End, 
 <div align="center">
 
 <sub>
-M E U &nbsp; S T A T U S&nbsp;
+<h3 align="center">𝐌 𝐄 𝐔 𝐒 &nbsp; 𝐒 𝐓 𝐀 𝐓 𝐔 𝐒&nbsp;</h3>
 </sub>
 
 <br>
