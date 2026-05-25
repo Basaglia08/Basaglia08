@@ -68,7 +68,7 @@ M E U &nbsp; S T A T U S&nbsp;
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=400&lines=My+ Status" />
+
 
 </div>
 
@@ -84,6 +84,8 @@ M E U &nbsp; S T A T U S&nbsp;
 </p>
 
 <br clear="left">
+
+---
 
 </div>
 </td>
