@@ -17,14 +17,14 @@
 <br>
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logoColor=555555&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logoColor=777777&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-262626?style=flat-square&logoColor=999999&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-333333?style=flat-square&logoColor=bbbbbb&logo=php)
-![Python](https://img.shields.io/badge/Python-444444?style=flat-square&logoColor=cccccc&logo=python)
-![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logoColor=dddddd&logo=openjdk)
-
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
 </div>
 
 <h3 align="center"><sub>𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
@@ -52,10 +52,10 @@ Sou estudante de programação, focado no desenvolvimento Back-End e Front-End, 
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-eeeeee?style=flat-square&logoColor=111111&logo=git)
-![React](https://img.shields.io/badge/React-555555?style=flat-square&logoColor=dddddd&logo=react)
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logoColor=777777&logo=figma)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logoColor=555555&logo=nodedotjs)
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
 </div>
 
 
