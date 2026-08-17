@@ -24,7 +24,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-## ◈ Sobre mim
+## Sobre mim
 
 Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formação, com interesse em criar aplicações que unam **Back-End, Front-End e Inteligência Artificial**. Gosto de transformar problemas em produtos digitais claros, úteis e bem construídos — sempre aprendendo uma tecnologia nova no processo.
 
@@ -33,7 +33,7 @@ Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formaçã
 - 🛠️ Ambiente principal: VS Code + Git/GitHub.
 - 📍 Base: São Paulo, Brasil.
 
-## ◈ Stack de tecnologia
+## Stack de tecnologia
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,python,java&theme=dark" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Laravel, Python e Java" />
@@ -49,7 +49,7 @@ Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formaçã
   <img src="https://img.shields.io/badge/AI%20%26%20Automation-Python%20%7C%20Prompt%20Engineering-22c55e?style=for-the-badge&labelColor=080d18" alt="AI e automação" />
 </div>
 
-## ◈ Missão atual
+## Missão atual
 
 ```java
 public class MissaoAtual {
@@ -74,7 +74,7 @@ public class MissaoAtual {
 }
 ```
 
-## ◈ Telemetria GitHub
+## Telemetria GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Basaglia08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4&icon_color=8b5cf6" alt="Estatísticas do GitHub" />
@@ -87,7 +87,7 @@ public class MissaoAtual {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Basaglia08&bg_color=080d18&color=d7e3f4&line=00d9ff&point=8b5cf6&area=true&area_color=00d9ff&hide_border=true" width="96%" alt="Gráfico de atividade" />
 </div>
 
-## ◈ Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-basaglia-batista/">
