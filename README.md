@@ -36,17 +36,30 @@ Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formaçã
 ## Stack de tecnologia
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,python,java&theme=dark" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, Laravel, Python e Java" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark" alt="Ferramentas: Git, GitHub, VS Code, Figma e MySQL" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JavaScript-00d9ff?style=for-the-badge&labelColor=080d18" alt="Front-end" />
-  <img src="https://img.shields.io/badge/Back--End-PHP%20%7C%20Laravel%20%7C%20Node.js-8b5cf6?style=for-the-badge&labelColor=080d18" alt="Back-end" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Python%20%7C%20Prompt%20Engineering-22c55e?style=for-the-badge&labelColor=080d18" alt="AI e automação" />
+  <p align="left">
+    <img src="https://img.shields.io/badge/FRONT--END-080d18?style=for-the-badge" alt="Front-End" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/BACK--END-080d18?style=for-the-badge" alt="Back-End" />
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/OUTRAS-080d18?style=for-the-badge" alt="Outras tecnologias e ferramentas" />
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </p>
 </div>
 
 ## Missão atual
