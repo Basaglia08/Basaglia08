@@ -17,7 +17,6 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║  J.A.R.V.I.S. / PROFILE INITIALIZATION                           ║
 ║  Identity  : Miguel Basaglia                                     ║
 ║  Location  : São Paulo, Brazil                                   ║
 ║  Mission   : Transformar aprendizado em experiências digitais.   ║
