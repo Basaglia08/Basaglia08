@@ -8,12 +8,19 @@
   </a>
 
   <br />
+
   <img src="https://komarev.com/ghpvc/?username=Basaglia08&label=PROFILE+VISITS&color=00d9ff&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Basaglia08?tab=followers"><img src="https://img.shields.io/github/followers/Basaglia08?label=FOLLOWERS&style=flat-square&color=00d9ff&labelColor=080d18" alt="GitHub followers" /></a>
+
+  <a href="https://github.com/Basaglia08?tab=followers">
+    <img src="https://img.shields.io/github/followers/Basaglia08?label=FOLLOWERS&style=flat-square&color=00d9ff&labelColor=080d18" alt="GitHub followers" />
+  </a>
+
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00d9ff?style=flat-square&labelColor=080d18" alt="Status online" />
 </div>
 
 <br />
+
+<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
@@ -24,16 +31,26 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-## Sobre mim
+</div>
 
-Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formação, com interesse em criar aplicações que unam **Back-End, Front-End e Inteligência Artificial**. Gosto de transformar problemas em produtos digitais claros, úteis e bem construídos — sempre aprendendo uma tecnologia nova no processo.
+<br />
 
-- 🎯 Foco atual: desenvolvimento full-stack e aplicações com IA generativa.
-- 🧠 Explorando: React, TypeScript, PHP/Laravel, Node.js, Python e Java.
-- 🛠️ Ambiente principal: VS Code + Git/GitHub.
-- 📍 Base: São Paulo, Brasil.
+## `01` · Sobre mim
 
-## Stack de tecnologia
+Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formação, com interesse em criar aplicações que unam **Back-End, Front-End e Inteligência Artificial**.
+
+Gosto de transformar problemas em produtos digitais claros, úteis e bem construídos — sempre aprendendo uma tecnologia nova no processo.
+
+### Atualmente
+
+* 🎯 **Foco:** desenvolvimento Full-Stack e aplicações com IA generativa.
+* 🧠 **Explorando:** React, TypeScript, PHP/Laravel, Node.js, Python e Java.
+* 🛠️ **Ambiente principal:** VS Code + Git/GitHub.
+* 📍 **Base:** São Paulo, Brasil.
+
+---
+
+## `02` · Stack & Tecnologias
 
 <div align="center">
   <p align="left">
@@ -45,6 +62,7 @@ Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formaçã
     <img src="https://img.shields.io/badge/TAILWIND-CSS-3178C6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </p>
+
   <p align="left">
     <img src="https://img.shields.io/badge/BACK--END-080d18?style=for-the-badge" alt="Back-End" />
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -53,6 +71,7 @@ Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formaçã
     <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </p>
+
   <p align="left">
     <img src="https://img.shields.io/badge/OUTRAS-080d18?style=for-the-badge" alt="Outras tecnologias e ferramentas" />
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -63,7 +82,9 @@ Sou **Miguel Basaglia**, estudante de programação e desenvolvedor em formaçã
   </p>
 </div>
 
-## Missão atual
+---
+
+## `03` · Missão Atual
 
 ```java
 public class MissaoAtual {
@@ -88,36 +109,88 @@ public class MissaoAtual {
 }
 ```
 
-## Telemetria GitHub
+---
+
+## `04` · Telemetria GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Basaglia08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4&icon_color=8b5cf6" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basaglia08&layout=compact&langs_count=8&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4" alt="Linguagens mais usadas" />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api?username=Basaglia08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4&icon_color=8b5cf6"
+ alt="Estatísticas do GitHub"
+/>
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basaglia08&layout=compact&langs_count=8&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4"
+ alt="Linguagens mais usadas"
+/>
+
   <br />
-  <img src="https://streak-stats.demolab.com?user=Basaglia08&hide_border=true&background=080D18&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=D7E3F4&dates=8EA3BF&stroke=080D18" alt="Sequência de contribuições" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Basaglia08&bg_color=080d18&color=d7e3f4&line=00d9ff&point=8b5cf6&area=true&area_color=00d9ff&hide_border=true" width="96%" alt="Gráfico de atividade" />
-</div>
+<img
+ src="https://streak-stats.demolab.com?user=Basaglia08&hide_border=true&background=080D18&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=D7E3F4&dates=8EA3BF&stroke=080D18"
+ alt="Sequência de contribuições"
+/>
 
-## Conecte-se comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/miguel-basaglia-batista/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mglbasaglia">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Basaglia08">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b16,50:0b1f3a,100:00d9ff&height=110&section=footer" width="100%" alt="Rodapé futurista" />
-  <sub>© 2026 Miguel Basaglia · Built with curiosity, code and coffee.</sub>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Basaglia08&bg_color=080d18&color=d7e3f4&line=00d9ff&point=8b5cf6&area=true&area_color=00d9ff&hide_border=true"
+    width="96%"
+    alt="Gráfico de atividade"
+  />
+</div>
+
+---
+
+## `05` · Conecte-se comigo
+
+<div align="center">
+
+  <a href="mailto:miguelbasaglia08@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/miguel-basaglia-batista/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/mglbasaglia">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="https://github.com/Basaglia08">
+    <img
+      src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050b16,50:0b1f3a,100:00d9ff&height=110&section=footer"
+    width="100%"
+    alt="Rodapé futurista"
+  />
+
+<sub>© 2026 Miguel Basaglia · Built with curiosity, code and coffee.</sub>
+
 </div>
