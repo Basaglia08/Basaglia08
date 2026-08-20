@@ -111,44 +111,7 @@ public class MissaoAtual {
 
 ---
 
-## `04` · Telemetria GitHub
-
-<div align="center">
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api?username=Basaglia08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4&icon_color=8b5cf6"
- alt="Estatísticas do GitHub"
-/>
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basaglia08&layout=compact&langs_count=8&hide_border=true&bg_color=080d18&title_color=00d9ff&text_color=d7e3f4"
- alt="Linguagens mais usadas"
-/>
-
-  <br />
-
-<img
- src="https://streak-stats.demolab.com?user=Basaglia08&hide_border=true&background=080D18&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=D7E3F4&dates=8EA3BF&stroke=080D18"
- alt="Sequência de contribuições"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Basaglia08&bg_color=080d18&color=d7e3f4&line=00d9ff&point=8b5cf6&area=true&area_color=00d9ff&hide_border=true"
-    width="96%"
-    alt="Gráfico de atividade"
-  />
-</div>
-
----
-
-## `05` · Conecte-se comigo
+## `04` · Conecte-se comigo
 
 <div align="center">
 
